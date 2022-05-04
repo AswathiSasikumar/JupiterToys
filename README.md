@@ -9,4 +9,4 @@ Test cases and Eclipse project with automation
 * <b>Challenge1.ipynb contains the solution to challenge 1
 * <b>Challenge1.pdf 
 * <b>Challenge2.ipynb contains the solution to challenge 2
-* <b>Challenge2.pdf 
+* <b>Challenge2_jupiter notebook.pdf 
